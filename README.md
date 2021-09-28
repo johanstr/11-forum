@@ -10,7 +10,7 @@ Deze git-repository is bedoeld voor de instructiemomenten voor module 11. Hier v
 2. STAP 2  
    Tik in de terminal de onderstaande opdracht in:  
 ```bash
-git clone https://github.com/johanstr/forum-klas1 forum
+git clone https://github.com/johanstr/11-forum forum
 ```
 ---
 ## De mappen in deze repository
@@ -27,4 +27,4 @@ resultaten op het scherm zien.
   
 Start XAMPP, en dus start Apache en MySQL in XAMPP. Open daarna in de browser phpMyAdmin (dit is een beheerpaneel van de databaseserver) en maak hier een database aan met de naam **forum**.  
   
-Importeer nu het bestand forum_klas1.sql.
+Importeer nu het bestand **forum_klas1.sql**.
